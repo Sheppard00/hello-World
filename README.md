@@ -1,7 +1,15 @@
 # hello-World
 Collection of beginner projects
 
-Hi, I'm Kamari
+
+
+
+
+
+
+
+
+Greetings, I'm Kamari
 This is my first time on Github.
 I heard about it from an article that it was good to have
 experience using this.
